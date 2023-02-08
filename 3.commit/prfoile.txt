@@ -1,2 +1,2 @@
-email :
-gitID :
+email : joshuara7235@gmail.com
+gitID : mingj7235
